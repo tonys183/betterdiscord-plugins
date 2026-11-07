@@ -1,20 +1,11 @@
-# BDThemes — Tema para BetterDiscord
+# BetterDiscord Plugins
 
 <p align="center">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=plastic&logo=css&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
   <img alt="BetterDiscord" src="https://img.shields.io/badge/BetterDiscord-3E82E5?style=plastic&logo=betterdiscord&logoColor=white">
-  <a href="LICENSE"><img alt="Licencia GPL-3.0" src="https://img.shields.io/github/license/tonys183/BDThemes?style=plastic&label=Licencia&logo=opensourceinitiative&logoColor=white"></a>
+  <img alt="Licencia GPL-3.0" src="https://img.shields.io/github/license/tonys183/betterdiscord-plugins?style=plastic&label=Licencia&logo=opensourceinitiative&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="#contenido">Contenido</a>
-</p>
+## Plugins
 
-Tema para personalizar la apariencia de Discord mediante BetterDiscord. El repositorio incluye la hoja de estilos principal y carpetas con recursos y complementos.
-
-## Contenido
-
-- [Tema Midnight Cloud](midnight-cloud.theme.css): hoja de estilos principal del tema.
-- [Complementos](addons/): estilos adicionales.
-- [Build](build/): archivos de construcción del tema.
-- [Regex](regex/): recursos de expresiones regulares.
+- **Double Click To Edit**: permite editar tus mensajes con doble clic, responder a mensajes de otros usuarios y copiar el texto seleccionado, con teclas modificadoras configurables.
