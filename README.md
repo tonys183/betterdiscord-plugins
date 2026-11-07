@@ -8,4 +8,4 @@
 
 ## Plugins
 
-- **Double Click To Edit**: permite editar tus mensajes con doble clic, responder a mensajes de otros usuarios y copiar el texto seleccionado, con teclas modificadoras configurables.
+- **Double Click To Edit**: permite editar mensajes con doble clic, responder a mensajes de otros usuarios y copiar el texto seleccionado, con teclas específicas.
